@@ -103,7 +103,7 @@ int main() {
     head=insertAtBeginning(head, 78);
     printf("\nThe linked list after inserting 200 at the end is: ");
     head=insertAtEnd(head, 200);
-    display(head);h
+    display(head);
     printf("\nThe linked list after 30:");
     head=insertAfterNode(head,30,67);
     display(head);
